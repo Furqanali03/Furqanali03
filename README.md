@@ -1,3 +1,4 @@
+![logo](https://github.com/Furqanali03/Furqanali03/blob/main/background.png)
 <h1 align="center">Hi 👋, I'm Furqan Ali</h1>
 <h3 align="center">A passionate frontend developer from Karachi(city of lights)</h3>
 
